@@ -1,1 +1,3 @@
 создать 2 класса-2(Page1,Page2) стр. в инете.Их поля: header,body,fukll (String).Hello I am Page (getHeader один на всех,методы не дублируются),а вызывать в отдельном классе
+
+gsdagdsfgaggfds
